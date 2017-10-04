@@ -44,3 +44,17 @@ body {
 	margin: auto;
 	margin-left: 20px;
 }
+.prof{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	padding: 40px;
+	height: 500px;
+	width: 500px;
+	margin-left: 52%;
+	margin-top: 10%;
+}
+.profile_pic{
+	margin-left: 32%;
+	height: 150px;
+	width: 150px;
+}
