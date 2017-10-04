@@ -58,3 +58,23 @@ body {
 	height: 150px;
 	width: 150px;
 }
+.info{
+	width: 950px;
+	height: 580px;
+	background: rgba(0, 0, 0, 0.6);
+	text-align: center;
+	margin: auto;
+	margin-top: 8%;
+	margin-left: 30%;
+	color: white;
+	font-family: 'Mr De Haviland', cursive;
+	}
+}
+.info h1{
+	font-family: 'Mr De Haviland', cursive;
+	margin-top: 5%;
+}
+.info p{
+	font-family: 'Comic sans MS', sans-serif;
+	font-size: 15px;
+}
