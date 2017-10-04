@@ -129,3 +129,25 @@ font-size: 18px;
 color: black;
 font-family: 'Cooper Black';
 }
+.ins {
+    margin: 90px;
+    float: left;
+    width: 180px;
+}
+.ins img {
+	margin-top: -30%;
+    width: 185%;
+    height: auto;
+}
+.desc {
+	background-color: rgba(0,0,0,0.6);
+	padding: 40px;
+	height: 40px;
+	color: black;
+	width: 140%;
+    text-align: center;
+}
+.desc p{
+	color: white;
+	margin-top: -9%;
+}
