@@ -7,3 +7,40 @@ body {
 	background-size: cover;
 	font-family: 'Mr De Haviland', cursive;
 }
+#navdiv{
+	opacity: 0.7;
+	filter: (opacity=70);
+}
+#navdiv ul{
+	width: 195%;
+	height:80px;
+	background: #648DA0;
+	line-height: 80px;
+	color: white;
+	margin-right: 35px;
+}
+#navdiv ul a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+#navdiv ul li {
+	list-style-type : none;
+	display: inline block;
+	float: right;
+}
+#navdiv ul li:hover{
+	background: #232727;
+	transition:all 0.40s; 
+}
+#navdiv h1{
+	color: white;
+	width: 600px;
+	float: left;
+	cursor: pointer;
+	letter-spacing: 2px;
+	text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+	font-size: 45px;
+	margin: auto;
+	margin-left: 20px;
+}
