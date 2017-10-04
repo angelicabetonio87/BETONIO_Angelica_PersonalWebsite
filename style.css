@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 50%;
+	height:800px;
+	background: url(images/img.jpg) no-repeat;
+	background-size: cover;
+	font-family: 'Mr De Haviland', cursive;
+}
