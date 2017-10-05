@@ -60,11 +60,11 @@ body {
 }
 .info{
 	width: 950px;
-	height: 580px;
+	height: 730px;
 	background: rgba(0, 0, 0, 0.6);
 	text-align: center;
 	margin: auto;
-	margin-top: 8%;
+	margin-top: -2%;
 	margin-left: 30%;
 	color: white;
 	font-family: 'Mr De Haviland', cursive;
